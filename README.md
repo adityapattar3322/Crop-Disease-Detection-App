@@ -1,6 +1,3 @@
-
----
-
 # 🌾 Crop Disease Detection Using Deep Learning
 
 ## 📌 Overview

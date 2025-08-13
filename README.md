@@ -1,4 +1,3 @@
-Here’s a well-structured sample **README** file for a project titled **Crop Disease Detection Using Deep Learning**, inspired by best practices and real-world repositories like [this one on GitHub](https://github.com/ShrijalShrestha/Crop-Disease-Detection/blob/main/README.md):
 
 ---
 
